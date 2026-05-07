@@ -9,3 +9,4 @@ Main.cpp にこのリポジトリのコードをコピー＆ペーストしま�
 ビルドして実行（F5キーなど）してください。
 🎮 操作方法操作アクションマウス左クリック選択中の色のステーションを配置マウス右クリックステーションを削除Slider (Count)シミュレーション上のロボット台数を変更RadioButtons配置するステーションの色を選択Speed Buttonsシミュレーション速度（1x / 8x）の切り替え📊 統計情報Total Processed: 荷物を正常に届けた累計回数。Avg Laps to Deliver: 1つの荷物を届けるために、ロボットが平均して何周したか（低いほど効率的）。
 ⚖️ ライセンスこのプロジェクトは MIT License の下で公開されています。
+<img width="993" height="782" alt="スクリーンショット 2026-05-07 132919" src="https://github.com/user-attachments/assets/2d74129f-e0da-4b72-a6d4-130985eb17d4" />
